@@ -1,1 +1,1 @@
-# wsbcwiczenie1
+welcome to the GITworld 
